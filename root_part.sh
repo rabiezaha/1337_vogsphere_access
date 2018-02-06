@@ -2,6 +2,10 @@
 
 ### We set up the kerberos config file to access to 42's kerberos server.
 
+mv /etc/krb5.conf /etc/krb5.conf_before42vogsphereaccess
+
+echo "Original /etc/krb5.conf renamed : /etc/krb5.conf_before42vogsphereaccess" 
+
 cat >> /etc/krb5.conf << EOF
 [libdefaults]
 	default_realm = 42.FR
