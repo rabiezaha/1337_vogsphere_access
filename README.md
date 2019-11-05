@@ -26,4 +26,4 @@ You are connected, now you can git clone/push/pull from/to vogsphere.
 
 
 ## License
-https://app.fossa.io/projects/git%2Bgithub.com%2Fcolundrum%2F42_vogsphere_access/refs/branch/master/a57fc76171ef89fcb725591c4a93ddeee31980ba/preview
+
