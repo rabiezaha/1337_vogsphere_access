@@ -27,3 +27,4 @@ You are connected, now you can git clone/push/pull from/to vogsphere.
 
 ## License
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frabiezaha%2F1337_vogsphere_access.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frabiezaha%2F1337_vogsphere_access?ref=badge_shield)
