@@ -1,6 +1,6 @@
 #!/bin/bash
 
-### We set script as executable
+### set script as executable
 
 chmod +x user_part.sh && chmod +x root_part.sh &&
 
